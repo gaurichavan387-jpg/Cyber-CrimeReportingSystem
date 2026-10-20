@@ -1,0 +1,54 @@
+================================
+Complaint ID: CCR1791870842356
+Name: gauri
+Contact: 1234567
+Crime Type: Hacking
+Description: something 
+Evidence: no 
+Status: SUBMITTED
+
+================================
+Complaint ID: CCR1791871741031
+Name: gauri
+Contact: 3456789
+Crime Type: Online Shopping Fraud
+Description: some  tell me this is very good product and take my money
+Evidence: no
+Status: SUBMITTED
+
+================================
+Complaint ID: CCR1791872390335
+Name: git
+Contact: 4567890
+Crime Type: UPI Fraud
+Description: something 
+Evidence: no
+Status: SUBMITTED
+
+================================
+Complaint ID: CCR1791887667005
+Name: zimina
+Contact: 3456789123
+Crime Type: UPI Fraud
+Description: no
+Evidence: Not provided
+Status: SUBMITTED
+
+================================
+Complaint ID: CCR1792005542618
+Name: priti
+Contact: 7856453412
+Crime Type: he stole my bag and run
+Description: nothing
+Evidence: -
+Status: SUBMITTED
+
+================================
+Complaint ID: CCR1792040683956
+Name: prachi
+Contact: 1234567891
+Crime Type: Hacking
+Description: someone hacked me
+Evidence: Not provided
+Status: SUBMITTED
+
